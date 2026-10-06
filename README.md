@@ -1,8 +1,10 @@
 This repo is uploaded on behalf of [@SteinsGateON](https://space.bilibili.com/34714121).
 
-# TH10 portable
+# th10
 
-This branch contains the source-only TH10 3.5.1 C++/SDL3 portable and Web implementation.
+[![QQ Group 1124121427](https://img.shields.io/badge/QQ%20Group-1124121427-12B7F5?logo=tencentqq)](https://qm.qq.com/q/eeUrxIltug?from=tim)
+
+A high-fidelity, portable reimplementation of 東方風神録　～ Mountain of Faith ver 1.00a.
 
 ## Layout
 
